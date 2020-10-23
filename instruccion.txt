@@ -1,0 +1,6 @@
+ nuevo angular
+
+ng new client --routing
+ng g c navigaction --> componente
+ng g s games  --> services para el api
+ ng serve ---> levantar el proyecto
